@@ -1,6 +1,6 @@
 ### Hello, I'm Anand
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=anand-mohanan)](https://anand-mohanan.vercel.app/)
+[![Website](https://img.shields.io/website?label=anand-mohanan&style=for-the-badge&url=https%3A%2F%2Fanand-mohanan.vercel.app/)](https://anand-mohanan.vercel.app/)
 
 ### Connect with me:
 
