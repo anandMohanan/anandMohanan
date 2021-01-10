@@ -2,7 +2,6 @@
 
 [![Website](https://img.shields.io/website?label=anand-mohanan&style=for-the-badge&url=https%3A%2F%2Fanand-mohanan.vercel.app/)](https://anand-mohanan.vercel.app/)
 
-### Connect with me:
 
 [<img align="left" alt="bruh711" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="bruh711 || LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
