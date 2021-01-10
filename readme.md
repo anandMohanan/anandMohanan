@@ -1,22 +1,20 @@
 ### Hello, I'm Anand
 
 [![Website](https://img.shields.io/website?label=anand-mohanan&style=for-the-badge&url=https%3A%2F%2Fanand-mohanan.vercel.app/)](https://anand-mohanan.vercel.app/)
-
-
-[<img align="left" alt="bruh711" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="bruh711 || LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="bruh711 || Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="bruh711 || discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/discord.svg" />][discord]
-
 <br />
 <br />
-
 - I am currently pursuing bachelor of engineering in electronics and communication - engineering .
 - A self taught web developer with good experience in front end frameworks like React and I started to build my own projects .
 - I'm currently learning c and c++ .
 - I love to make discord bots .
 
 ---
+
+[<img align="left" alt="bruh711" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="bruh711 || LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="bruh711 || Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="bruh711 || discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/discord.svg" />][discord]
+
 
 ### Languages i've used the most:
 
