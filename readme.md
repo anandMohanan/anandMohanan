@@ -19,13 +19,11 @@
 
 ---
 
-### GitHub Stats:
+### GitHub Stats
 
 <img align="left" alt=" " src="https://github-readme-stats.vercel.app/api?username=bruh711&theme=dark&show_icons=true&hide_border=true" />
 
----
-
-### Languages i've used the most:
+### Languages i've used the most
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bruh711&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
