@@ -2,14 +2,12 @@
 
 [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://anand-mohanan.vercel.app/)
 
-## I'm a Husband, Father, Developer, and Teacher!!
-
 - I am currently pursuing bachelor of engineering in electronics and communication - engineering .
 - A self taught web developer with good experience in front end frameworks like React and I started to build my own projects .
 - I'm currently learning c and c++ .
 - I love to make discord bots .
 
-### Spotify Playing 🎧
+### Spotify Playing
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="bruh Spotify Playing" width="350" />](https://open.spotify.com/user/ldp0rzalppoajakgv7234no3m)
 
@@ -27,12 +25,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bruh711&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+### GitHub Stats
 
-  <img align="left" alt=" " src="https://github-readme-stats.vercel.app/api?username=bruh711&theme=dark&show_icons=true&hide_border=true" />
-
-</details>
+<img align="left" alt=" " src="https://github-readme-stats.vercel.app/api?username=bruh711&theme=dark&show_icons=true&hide_border=true" />
 
 [website]: https://anand-mohanan.vercel.app/
 [instagram]: https://www.instagram.com/ananth_mohanan/
