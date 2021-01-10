@@ -2,15 +2,6 @@
 
 [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://anand-mohanan.vercel.app/)
 
-- I am currently pursuing bachelor of engineering in electronics and communication - engineering .
-- A self taught web developer with good experience in front end frameworks like React and I started to build my own projects .
-- I'm currently learning c and c++ .
-- I love to make discord bots .
-
-### Spotify Playing
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="bruh Spotify Playing" width="350" />](https://open.spotify.com/user/ldp0rzalppoajakgv7234no3m)
-
 ### Connect with me:
 
 [<img align="left" alt="bruh711" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -20,6 +11,13 @@
 
 <br />
 <br />
+
+- I am currently pursuing bachelor of engineering in electronics and communication - engineering .
+- A self taught web developer with good experience in front end frameworks like React and I started to build my own projects .
+- I'm currently learning c and c++ .
+- I love to make discord bots .
+
+---
 
 ### Languages i've used the most
 
