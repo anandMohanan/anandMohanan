@@ -21,11 +21,11 @@
 
 ### Languages i've used the most:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bruh711&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anandMohanan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### GitHub Stats:
 
-<img align="left" alt=" " src="https://github-readme-stats.vercel.app/api?username=bruh711&theme=dark&show_icons=true&hide_border=true" />
+<img align="left" alt=" " src="https://github-readme-stats.vercel.app/api?username=anandMohanan&theme=dark&show_icons=true&hide_border=true" />
 
 [website]: https://anand-mohanan.vercel.app/
 [instagram]: https://www.instagram.com/ananth_mohanan/
