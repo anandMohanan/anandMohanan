@@ -5,7 +5,7 @@
 - I am currently pursuing bachelor of engineering in electronics and communication - engineering .
 - A self taught web developer with good experience in front end frameworks like React and I started to build my own projects .
 - I'm currently learning c and c++ .
-- I love to make discord bots .
+- I love making discord bots .
 
 ---
 
