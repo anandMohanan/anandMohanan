@@ -1,11 +1,13 @@
 ### Hello, I'm Anand
 
-[![Website](https://img.shields.io/website?label=anand-mohanan&style=for-the-badge&url=https%3A%2F%2Fanand-mohanan.vercel.app/)](https://anand-mohanan.vercel.app/)
+[![Website](https://img.shields.io/website?label=anand-mohanan&style=for-the-badge&url=https%3A%2F%2Fanand-mohanan.vercel.app/)](https://anandmohanan.social/)
 <br />
-- I am currently pursuing bachelor of engineering in electronics and communication - engineering .
-- A self taught web developer with good experience in front end frameworks like React and I started to build my own projects .
-- I'm currently learning c and c++ .
-- I love making discord bots .
+- I am currently pursuing my bachelor of engineering in electronics and communication - engineering .
+- Rustacean.
+- A self taught web developer with good experience in front end frameworks like React, nextjs.
+- have experince working in Nodejs, graphql and nosql databases.
+- I'm currently learning c , c++ and c# .
+- I love making discord bots.
 
 ---
 
@@ -27,7 +29,7 @@
 
 <img align="left" alt=" " src="https://github-readme-stats.vercel.app/api?username=anandMohanan&theme=dark&show_icons=true&hide_border=true" />
 
-[website]: https://anand-mohanan.vercel.app/
+[website]: https://anandmohanan.social/
 [instagram]: https://www.instagram.com/ananth_mohanan/
 [linkedin]: https://www.linkedin.com/in/anand-mohanan-7120061bb/
 [discord]: https://discord.com/users/376632059923267584/
