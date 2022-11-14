@@ -13,8 +13,7 @@
 
 [<img align="left" alt="bruh711" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="bruh711 || LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="bruh711 || Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="bruh711 || discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/discord.svg" />][discord]
+[<img align="left" alt="bruh711 || discord" width="22px" src="https://i.postimg.cc/pTk2wPWs/discord.png" />][discord]
 <br/>
 
 ---
@@ -30,7 +29,6 @@
 <img align="left" alt=" " src="https://github-readme-stats.vercel.app/api?username=anandMohanan&theme=dark&show_icons=true&hide_border=true" />
 
 [website]: https://anandmohanan.social/
-[instagram]: https://www.instagram.com/ananth_mohanan/
 [linkedin]: https://www.linkedin.com/in/anand-mohanan-7120061bb/
 [discord]: https://discord.com/users/376632059923267584/
 [mail]: ananthkvmohanan@gmail.com
