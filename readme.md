@@ -2,13 +2,6 @@
 
 [![Website](https://img.shields.io/website?label=anand-mohanan&style=for-the-badge&url=https%3A%2F%2Fanand-mohanan.vercel.app/)](https://anandmohanan.social/)
 <br />
-- I am currently pursuing my bachelor of engineering in electronics and communication - engineering .
-- Rustacean, golang sometimes and learning aws.
-- A self taught web developer with good experience in front end frameworks like React, nextjs.
-- have experince working in Nodejs, graphql and nosql databases.
-- Currently learning everything I dont know why.
-- I used to love making discord bots.
-
 ---
 
 [<img align="left" alt="bruh711" width="22px" src="https://i.postimg.cc/9F76Tc6s/globe.png" />][website]
