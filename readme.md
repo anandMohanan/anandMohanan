@@ -1,6 +1,4 @@
-### Hello, I'm Anand
-
-[![Website](https://img.shields.io/website?label=anand-mohanan&style=for-the-badge&url=https%3A%2F%2Fanand-mohanan.vercel.app/)](https://anandmohanan.social/)
+[![Website](https://img.shields.io/website?label=anand-mohanan&style=for-the-badge&url=https%3A%2F%2Fanand-mohanan.vercel.app/)](https://anandmohanan.tech/)
 <br />
 ---
 
@@ -21,7 +19,7 @@
 
 <img align="left" alt=" " src="https://github-readme-stats.vercel.app/api?username=anandMohanan&theme=dark&show_icons=true&hide_border=true" />
 
-[website]: https://anandmohanan.social/
+[website]: https://anandmohanan.tech/
 [linkedin]: https://www.linkedin.com/in/anand-mohanan-7120061bb/
 [discord]: https://discord.com/users/376632059923267584/
 [mail]: ananthkvmohanan@gmail.com
