@@ -10,6 +10,14 @@
 ---
 
 <br/>
+### Languages i've used the most:
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anandMohanan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+### GitHub Stats:
+
+<img align="left" alt=" " src="https://github-readme-stats.vercel.app/api?username=anandMohanan&theme=dark&show_icons=true&hide_border=true" />
+
 [website]: https://anandmohanan.tech/
 [linkedin]: https://www.linkedin.com/in/anand-mohanan-7120061bb/
 [discord]: https://discord.com/users/376632059923267584/
