@@ -12,7 +12,7 @@
 <br/>
 
 
-[website]: https://anandmohanan.tech/
+[website]: https://anandmohanan.vercel.app/
 [linkedin]: https://www.linkedin.com/in/anand-mohanan-7120061bb/
 [discord]: https://discord.com/users/376632059923267584/
 [mail]: ananthkvmohanan@gmail.com
